@@ -1,0 +1,583 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		6914A49027C656E000BB9427 /* Mallow_s_ToolboxApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6914A48F27C656E000BB9427 /* Mallow_s_ToolboxApp.swift */; };
+		6914A49227C656E000BB9427 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6914A49127C656E000BB9427 /* ContentView.swift */; };
+		6914A49427C656E000BB9427 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6914A49327C656E000BB9427 /* Assets.xcassets */; };
+		6914A49727C656E000BB9427 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6914A49627C656E000BB9427 /* Preview Assets.xcassets */; };
+		6914A4A227C656E000BB9427 /* Mallow_s_ToolboxTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6914A4A127C656E000BB9427 /* Mallow_s_ToolboxTests.swift */; };
+		6914A4AC27C656E000BB9427 /* Mallow_s_ToolboxUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6914A4AB27C656E000BB9427 /* Mallow_s_ToolboxUITests.swift */; };
+		6914A4AE27C656E000BB9427 /* Mallow_s_ToolboxUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6914A4AD27C656E000BB9427 /* Mallow_s_ToolboxUITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		6914A49E27C656E000BB9427 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 6914A48427C656E000BB9427 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6914A48B27C656E000BB9427;
+			remoteInfo = "Mallow's Toolbox";
+		};
+		6914A4A827C656E000BB9427 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 6914A48427C656E000BB9427 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6914A48B27C656E000BB9427;
+			remoteInfo = "Mallow's Toolbox";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		6914A48C27C656E000BB9427 /* Mallow's Toolbox.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Mallow's Toolbox.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6914A48F27C656E000BB9427 /* Mallow_s_ToolboxApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mallow_s_ToolboxApp.swift; sourceTree = "<group>"; };
+		6914A49127C656E000BB9427 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		6914A49327C656E000BB9427 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		6914A49627C656E000BB9427 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6914A49827C656E000BB9427 /* Mallow_s_Toolbox.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Mallow_s_Toolbox.entitlements; sourceTree = "<group>"; };
+		6914A49D27C656E000BB9427 /* Mallow's ToolboxTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Mallow's ToolboxTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6914A4A127C656E000BB9427 /* Mallow_s_ToolboxTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mallow_s_ToolboxTests.swift; sourceTree = "<group>"; };
+		6914A4A727C656E000BB9427 /* Mallow's ToolboxUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Mallow's ToolboxUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6914A4AB27C656E000BB9427 /* Mallow_s_ToolboxUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mallow_s_ToolboxUITests.swift; sourceTree = "<group>"; };
+		6914A4AD27C656E000BB9427 /* Mallow_s_ToolboxUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mallow_s_ToolboxUITestsLaunchTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		6914A48927C656E000BB9427 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6914A49A27C656E000BB9427 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6914A4A427C656E000BB9427 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		6914A48327C656E000BB9427 = {
+			isa = PBXGroup;
+			children = (
+				6914A48E27C656E000BB9427 /* Mallow's Toolbox */,
+				6914A4A027C656E000BB9427 /* Mallow's ToolboxTests */,
+				6914A4AA27C656E000BB9427 /* Mallow's ToolboxUITests */,
+				6914A48D27C656E000BB9427 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		6914A48D27C656E000BB9427 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6914A48C27C656E000BB9427 /* Mallow's Toolbox.app */,
+				6914A49D27C656E000BB9427 /* Mallow's ToolboxTests.xctest */,
+				6914A4A727C656E000BB9427 /* Mallow's ToolboxUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		6914A48E27C656E000BB9427 /* Mallow's Toolbox */ = {
+			isa = PBXGroup;
+			children = (
+				6914A48F27C656E000BB9427 /* Mallow_s_ToolboxApp.swift */,
+				6914A49127C656E000BB9427 /* ContentView.swift */,
+				6914A49327C656E000BB9427 /* Assets.xcassets */,
+				6914A49827C656E000BB9427 /* Mallow_s_Toolbox.entitlements */,
+				6914A49527C656E000BB9427 /* Preview Content */,
+			);
+			path = "Mallow's Toolbox";
+			sourceTree = "<group>";
+		};
+		6914A49527C656E000BB9427 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				6914A49627C656E000BB9427 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		6914A4A027C656E000BB9427 /* Mallow's ToolboxTests */ = {
+			isa = PBXGroup;
+			children = (
+				6914A4A127C656E000BB9427 /* Mallow_s_ToolboxTests.swift */,
+			);
+			path = "Mallow's ToolboxTests";
+			sourceTree = "<group>";
+		};
+		6914A4AA27C656E000BB9427 /* Mallow's ToolboxUITests */ = {
+			isa = PBXGroup;
+			children = (
+				6914A4AB27C656E000BB9427 /* Mallow_s_ToolboxUITests.swift */,
+				6914A4AD27C656E000BB9427 /* Mallow_s_ToolboxUITestsLaunchTests.swift */,
+			);
+			path = "Mallow's ToolboxUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		6914A48B27C656E000BB9427 /* Mallow's Toolbox */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6914A4B127C656E000BB9427 /* Build configuration list for PBXNativeTarget "Mallow's Toolbox" */;
+			buildPhases = (
+				6914A48827C656E000BB9427 /* Sources */,
+				6914A48927C656E000BB9427 /* Frameworks */,
+				6914A48A27C656E000BB9427 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Mallow's Toolbox";
+			productName = "Mallow's Toolbox";
+			productReference = 6914A48C27C656E000BB9427 /* Mallow's Toolbox.app */;
+			productType = "com.apple.product-type.application";
+		};
+		6914A49C27C656E000BB9427 /* Mallow's ToolboxTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6914A4B427C656E000BB9427 /* Build configuration list for PBXNativeTarget "Mallow's ToolboxTests" */;
+			buildPhases = (
+				6914A49927C656E000BB9427 /* Sources */,
+				6914A49A27C656E000BB9427 /* Frameworks */,
+				6914A49B27C656E000BB9427 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				6914A49F27C656E000BB9427 /* PBXTargetDependency */,
+			);
+			name = "Mallow's ToolboxTests";
+			productName = "Mallow's ToolboxTests";
+			productReference = 6914A49D27C656E000BB9427 /* Mallow's ToolboxTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		6914A4A627C656E000BB9427 /* Mallow's ToolboxUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6914A4B727C656E000BB9427 /* Build configuration list for PBXNativeTarget "Mallow's ToolboxUITests" */;
+			buildPhases = (
+				6914A4A327C656E000BB9427 /* Sources */,
+				6914A4A427C656E000BB9427 /* Frameworks */,
+				6914A4A527C656E000BB9427 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				6914A4A927C656E000BB9427 /* PBXTargetDependency */,
+			);
+			name = "Mallow's ToolboxUITests";
+			productName = "Mallow's ToolboxUITests";
+			productReference = 6914A4A727C656E000BB9427 /* Mallow's ToolboxUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		6914A48427C656E000BB9427 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1320;
+				LastUpgradeCheck = 1320;
+				TargetAttributes = {
+					6914A48B27C656E000BB9427 = {
+						CreatedOnToolsVersion = 13.2.1;
+					};
+					6914A49C27C656E000BB9427 = {
+						CreatedOnToolsVersion = 13.2.1;
+						TestTargetID = 6914A48B27C656E000BB9427;
+					};
+					6914A4A627C656E000BB9427 = {
+						CreatedOnToolsVersion = 13.2.1;
+						TestTargetID = 6914A48B27C656E000BB9427;
+					};
+				};
+			};
+			buildConfigurationList = 6914A48727C656E000BB9427 /* Build configuration list for PBXProject "Mallow's Toolbox" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 6914A48327C656E000BB9427;
+			productRefGroup = 6914A48D27C656E000BB9427 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				6914A48B27C656E000BB9427 /* Mallow's Toolbox */,
+				6914A49C27C656E000BB9427 /* Mallow's ToolboxTests */,
+				6914A4A627C656E000BB9427 /* Mallow's ToolboxUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		6914A48A27C656E000BB9427 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6914A49727C656E000BB9427 /* Preview Assets.xcassets in Resources */,
+				6914A49427C656E000BB9427 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6914A49B27C656E000BB9427 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6914A4A527C656E000BB9427 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		6914A48827C656E000BB9427 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6914A49227C656E000BB9427 /* ContentView.swift in Sources */,
+				6914A49027C656E000BB9427 /* Mallow_s_ToolboxApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6914A49927C656E000BB9427 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6914A4A227C656E000BB9427 /* Mallow_s_ToolboxTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6914A4A327C656E000BB9427 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6914A4AE27C656E000BB9427 /* Mallow_s_ToolboxUITestsLaunchTests.swift in Sources */,
+				6914A4AC27C656E000BB9427 /* Mallow_s_ToolboxUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		6914A49F27C656E000BB9427 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 6914A48B27C656E000BB9427 /* Mallow's Toolbox */;
+			targetProxy = 6914A49E27C656E000BB9427 /* PBXContainerItemProxy */;
+		};
+		6914A4A927C656E000BB9427 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 6914A48B27C656E000BB9427 /* Mallow's Toolbox */;
+			targetProxy = 6914A4A827C656E000BB9427 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		6914A4AF27C656E000BB9427 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		6914A4B027C656E000BB9427 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		6914A4B227C656E000BB9427 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Mallow's Toolbox/Mallow_s_Toolbox.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Mallow's Toolbox/Preview Content\"";
+				DEVELOPMENT_TEAM = 2UUGFZVLZ8;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mallow.Mallow-s-Toolbox";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		6914A4B327C656E000BB9427 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Mallow's Toolbox/Mallow_s_Toolbox.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Mallow's Toolbox/Preview Content\"";
+				DEVELOPMENT_TEAM = 2UUGFZVLZ8;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mallow.Mallow-s-Toolbox";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		6914A4B527C656E000BB9427 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 2UUGFZVLZ8;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mallow.Mallow-s-ToolboxTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Mallow's Toolbox.app/Contents/MacOS/Mallow's Toolbox";
+			};
+			name = Debug;
+		};
+		6914A4B627C656E000BB9427 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 2UUGFZVLZ8;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mallow.Mallow-s-ToolboxTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Mallow's Toolbox.app/Contents/MacOS/Mallow's Toolbox";
+			};
+			name = Release;
+		};
+		6914A4B827C656E000BB9427 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 2UUGFZVLZ8;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mallow.Mallow-s-ToolboxUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = "Mallow's Toolbox";
+			};
+			name = Debug;
+		};
+		6914A4B927C656E000BB9427 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 2UUGFZVLZ8;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mallow.Mallow-s-ToolboxUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = "Mallow's Toolbox";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6914A48727C656E000BB9427 /* Build configuration list for PBXProject "Mallow's Toolbox" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6914A4AF27C656E000BB9427 /* Debug */,
+				6914A4B027C656E000BB9427 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6914A4B127C656E000BB9427 /* Build configuration list for PBXNativeTarget "Mallow's Toolbox" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6914A4B227C656E000BB9427 /* Debug */,
+				6914A4B327C656E000BB9427 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6914A4B427C656E000BB9427 /* Build configuration list for PBXNativeTarget "Mallow's ToolboxTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6914A4B527C656E000BB9427 /* Debug */,
+				6914A4B627C656E000BB9427 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6914A4B727C656E000BB9427 /* Build configuration list for PBXNativeTarget "Mallow's ToolboxUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6914A4B827C656E000BB9427 /* Debug */,
+				6914A4B927C656E000BB9427 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 6914A48427C656E000BB9427 /* Project object */;
+}
